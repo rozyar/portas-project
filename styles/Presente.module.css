@@ -7,7 +7,7 @@
 
 .tampa{
     width: 100px;
-    height: 100px;
+    height: 25px;
     background-color: #7aa944;
 }
 
@@ -27,7 +27,7 @@
 
 .laco2{
     position:absolute;
-    top:40;
+    top:40px;
     width:90px;
     height:15px;
     background-color: red;
